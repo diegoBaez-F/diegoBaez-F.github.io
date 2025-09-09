@@ -1,2 +1,2 @@
 # diegoBaez-F.github.io
-Esto es una pruba.
+Esto es una prueba.
